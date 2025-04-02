@@ -1,0 +1,363 @@
+# Aquest fitxer viminfo ha estat generat per Vim 8.2.
+# El podeu editar si aneu amb compte!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' en el moment d'escriure aquest fitxer
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Últim patró de cerca:
+~MSle0~/Unattended-Upgrade::DevRelease
+
+# Última cadena substituïda:
+$
+
+# Historial de la línia d'ordres (de més a menys recent):
+:x
+|2,0,1686816414,,"x"
+:q
+|2,0,1686816394,,"q"
+:wq
+|2,0,1683799134,,"wq"
+:q!
+|2,0,1682679433,,"q!"
+
+# Historial de cerques (de més a menys recent):
+? @$
+|2,1,1686816392,,"@$"
+?/Unattended-Upgrade::DevRelease
+|2,1,1682672716,47,"Unattended-Upgrade::DevRelease"
+
+# Historial d'expressions (de més a menys recent):
+
+# Historial de línies d'entrada (de més a menys recent):
+
+# Historial d'ordres de depuració (de més a menys recent):
+
+# Registres:
+"0	LINE	0
+	2731
+<eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmYzQxYjRhMC1kMGNlLTRkYTYtOWIyYy00YmMyMjRlMGJjYzgiLCJpc3MiOiJOTFMgU2VydmljZSBJbnN0YW5jZSIsImF1ZCI6Ik5MUyBMaWNlbnNlZCBDbGllbnQiLCJpYXQiOjE2ODM4MTQ0NDUsIm5iZiI6MTY4MzgxNDQ0NSwiZXhwIjoyMDYyNTA1NjQ1LCJ1cGRhdGVfbW9kZSI6IkFCU09MVVRFIiwic2NvcGVfcmVmX2xpc3QiOlsiZTYyN2RkNzYtNDExZi00ZWViLTgwMjctMWRlODM4NzJmYTI2Il0sImZ1bGZpbGxtZW50X2NsYXNzX3JlZl9saXN0IjpbXSwic2VydmljZV9pbnN0YW5jZV9jb25maWd1cmF0aW9uIjp7Im5sc19zZXJ2aWNlX2luc3RhbmNlX3JlZiI6IjU3NmQxZWVkLTcwMGEtNDAxNi05NWE0LThkN2ZlMDM3NDkxMyIsInN2Y19wb3J0X3NldF9saXN0IjpbeyJpZHgiOjAsImRfbmFtZSI6IkNMUyIsInN2Y19wb3J0X21hcCI6W3sic2VydmljZSI6ImF1dGgiLCJwb3J0Ijo0NDN9LHsic2VydmljZSI6ImxlYXNlIiwicG9ydCI6NDQzfV19XSwibm9kZV91cmxfbGlzdCI6W3siaWR4IjowLCJ1cmwiOiJhcGkuY2xzLmxpY2Vuc2luZy5udmlkaWEuY29tIiwidXJsX3FyIjoiYXBpLmxpY2Vuc2luZy5udmlkaWEuY29tIiwic3ZjX3BvcnRfc2V0X2lkeCI6MH1dfSwic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X2NvbmZpZ3VyYXRpb24iOnsic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X21lIjp7Im1vZCI6ImJlZjBiNjA4ODhhMGZhMThiOTMwMGYxN2UzY2UzM2M0YzU2YmJmYjU4NjRkODg0NzE5NjlhZDdiYmY5MWU3YTM4ODQ1YWIwZWRmZDVlZTBhMzY0ZGU0ZGFhMTQ1Yjg5ZDYzMzg0M2YzMGExMDBmYzcxMWE3MDIzZDMxZTkyM2Q0M2Y4MmFmZjQxMGI5MWUwMjkzMzc2MTZhYzM5NmIxYmViYzJmN2M1NTdjZmQxNTk0MmZkYzMwNmMwNjI3MzY4YzhmYWRlNGUwNDYyMjFhNzQ5NzlhNjQ2M2E3YzM4Mzk3NTc1OWJlNGI4NmQ4NmU0MmVhMGFmY2Y5YWYyODNjNTYyNDgzYTNlOWU2YjEwMDlmNjU0OTIxMjkzYjI2NzNiZmFjMjQ3YWIyNGYwNGViOGEwZGRkOTU5MWM1YzM4MDRmYTA3YTQyOGI1NzA3M2EyODdiZjNiNGRhMDFiMWY5YzhlYjI3MzQyMTY4YjEzODNkYWIzYWVjNzFhZmFkODg5NTMyZTg1MjM2NDY0ZmY2YTU2MjJiMjMxOTAwMTQyOGMyZGQyMGFlZGE4ZGEzZDgzMzkyNDE5NjgzMWIxOTM0YzkwZmM3MWFiNzU0YWE1YjA5ZTQyMjUzYmM2NDc5YzY2Y2FmYzg0NzJhMGNiYjdhZGE2MGNmZGY0YjcyN2VlZDYxIiwiZXhwIjo2NTUzN30sInNlcnZpY2VfaW5zdGFuY2VfcHVibGljX2tleV9wZW0iOiItLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLVxuTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2dkMyQ0lpZytoaTVNQThYNDg0elxueE1WcnY3V0dUWWhIR1dtdGU3K1I1Nk9JUmFzTzM5WHVDalpONU5xaFJiaWRZemhEOHdvUUQ4Y1Jwd0k5TWVralxuMUQrQ3IvUVF1UjRDa3pkaGFzT1dzYjY4TDN4VmZQMFZsQy9jTUd3R0p6YU1qNjNrNEVZaUduU1htbVJqcDhPRFxubDFkWnZrdUcyRzVDNmdyOCthOG9QRllrZzZQcDVyRUFuMlZKSVNrN0puTy9yQ1I2c2s4RTY0b04zWldSeGNPQVxuVDZCNlFvdFhCem9vZS9PMDJnR3grY2pySnpRaGFMRTRQYXM2N0hHdnJZaVZNdWhTTmtaUDlxVmlLeU1aQUJRb1xud3QwZ3J0cU5vOWd6a2tHV2d4c1pOTWtQeHhxM1ZLcGJDZVFpVTd4a2VjWnNyOGhIS2d5N2V0cGd6OTlMY243dFxuWVFJREFRQUJcbi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLSIsImtleV9yZXRlbnRpb25fbW9kZSI6IkxBVEVTVF9PTkxZIn19.LYsWD1T90eXAoGTtFMarxUl3jms4-OSCyQGEVT861HYgqg5vaN6DNRr2PiLJXijB1Qgu3cZUlkHGx9WQV_s8I_XOfi1FLdl2OGzQdlDSEU_QUdQr-RtHIsYWvHThdub9GElAdVchXJLBIjceBjlAAXR-QxxykdUMvloiQSP_ktRHuPrPi4yP_qUUNKneFzcT2FPsryMmL3CrAt05YYRhGZoUeLLO8U1riwWca6cpeHdfxno_D7oYGZsaYeoWpv9tEspaV52tHgQiPHeqk4klNuRzsJllNtBmjTHsdpNm-SViIWvZ9gaMdToLcmA3bOopqUVI46oNRpcADcb0tEBtuQ
+|3,0,0,1,1,0,1686816392,>2730
+|<"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmYzQxYjRhMC1kMGNlLTRkYTYtOWIyYy00YmMyMjRlMGJjYzgiLCJpc3MiOiJOTFMgU2VydmljZSBJbnN0YW5jZSIsImF1ZCI6Ik5MUyBMaWNlbnNlZCBDbGllbnQiLCJpYXQiOjE2ODM4MTQ0NDUsIm5iZiI6MTY4MzgxNDQ0NSwiZXhwIjoyMDYyNTA1NjQ1LCJ1cGRhdGVfbW9kZSI6IkFCU09MVVRFIiwic2NvcGVfcmVmX2xpc3QiOlsiZTYyN2RkNzYtNDExZi00ZWViLTgwMjctMWRlODM4NzJmYTI2Il0sImZ1bGZpbGxtZW50X2NsYXNzX3JlZl9saXN0IjpbXSwic2VydmljZV9pbnN0YW5jZV9jb25maWd1cmF0aW9uIjp7Im5sc19zZXJ2aWNlX2luc3RhbmNlX3JlZiI6IjU3NmQxZWVkL
+|<TcwMGEtNDAxNi05NWE0LThkN2ZlMDM3NDkxMyIsInN2Y19wb3J0X3NldF9saXN0IjpbeyJpZHgiOjAsImRfbmFtZSI6IkNMUyIsInN2Y19wb3J0X21hcCI6W3sic2VydmljZSI6ImF1dGgiLCJwb3J0Ijo0NDN9LHsic2VydmljZSI6ImxlYXNlIiwicG9ydCI6NDQzfV19XSwibm9kZV91cmxfbGlzdCI6W3siaWR4IjowLCJ1cmwiOiJhcGkuY2xzLmxpY2Vuc2luZy5udmlkaWEuY29tIiwidXJsX3FyIjoiYXBpLmxpY2Vuc2luZy5udmlkaWEuY29tIiwic3ZjX3BvcnRfc2V0X2lkeCI6MH1dfSwic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X2NvbmZpZ3VyYXRpb24iOnsic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X21lIjp7Im1vZCI6ImJlZjB
+|<iNjA4ODhhMGZhMThiOTMwMGYxN2UzY2UzM2M0YzU2YmJmYjU4NjRkODg0NzE5NjlhZDdiYmY5MWU3YTM4ODQ1YWIwZWRmZDVlZTBhMzY0ZGU0ZGFhMTQ1Yjg5ZDYzMzg0M2YzMGExMDBmYzcxMWE3MDIzZDMxZTkyM2Q0M2Y4MmFmZjQxMGI5MWUwMjkzMzc2MTZhYzM5NmIxYmViYzJmN2M1NTdjZmQxNTk0MmZkYzMwNmMwNjI3MzY4YzhmYWRlNGUwNDYyMjFhNzQ5NzlhNjQ2M2E3YzM4Mzk3NTc1OWJlNGI4NmQ4NmU0MmVhMGFmY2Y5YWYyODNjNTYyNDgzYTNlOWU2YjEwMDlmNjU0OTIxMjkzYjI2NzNiZmFjMjQ3YWIyNGYwNGViOGEwZGRkOTU5MWM1YzM4MDRmYTA3YTQyOGI1NzA3M2EyODdiZjNiNGRhMDFiMWY5YzhlYjI3MzQyMTY4YjEzODNkYWIzY
+|<WVjNzFhZmFkODg5NTMyZTg1MjM2NDY0ZmY2YTU2MjJiMjMxOTAwMTQyOGMyZGQyMGFlZGE4ZGEzZDgzMzkyNDE5NjgzMWIxOTM0YzkwZmM3MWFiNzU0YWE1YjA5ZTQyMjUzYmM2NDc5YzY2Y2FmYzg0NzJhMGNiYjdhZGE2MGNmZGY0YjcyN2VlZDYxIiwiZXhwIjo2NTUzN30sInNlcnZpY2VfaW5zdGFuY2VfcHVibGljX2tleV9wZW0iOiItLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLVxuTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2dkMyQ0lpZytoaTVNQThYNDg0elxueE1WcnY3V0dUWWhIR1dtdGU3K1I1Nk9JUmFzTzM5WHVDalpONU5xaFJiaWRZemhEOHdvUUQ4Y1Jwd0k5TWVralxuMUQrQ3IvUVF1UjRDa3pkaGF
+|<zT1dzYjY4TDN4VmZQMFZsQy9jTUd3R0p6YU1qNjNrNEVZaUduU1htbVJqcDhPRFxubDFkWnZrdUcyRzVDNmdyOCthOG9QRllrZzZQcDVyRUFuMlZKSVNrN0puTy9yQ1I2c2s4RTY0b04zWldSeGNPQVxuVDZCNlFvdFhCem9vZS9PMDJnR3grY2pySnpRaGFMRTRQYXM2N0hHdnJZaVZNdWhTTmtaUDlxVmlLeU1aQUJRb1xud3QwZ3J0cU5vOWd6a2tHV2d4c1pOTWtQeHhxM1ZLcGJDZVFpVTd4a2VjWnNyOGhIS2d5N2V0cGd6OTlMY243dFxuWVFJREFRQUJcbi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLSIsImtleV9yZXRlbnRpb25fbW9kZSI6IkxBVEVTVF9PTkxZIn19.LYsWD1T90eXAoGTtFMarxUl3jms4-OSCyQGEVT861HYgqg5vaN6DNRr2PiLJXijB
+|<1Qgu3cZUlkHGx9WQV_s8I_XOfi1FLdl2OGzQdlDSEU_QUdQr-RtHIsYWvHThdub9GElAdVchXJLBIjceBjlAAXR-QxxykdUMvloiQSP_ktRHuPrPi4yP_qUUNKneFzcT2FPsryMmL3CrAt05YYRhGZoUeLLO8U1riwWca6cpeHdfxno_D7oYGZsaYeoWpv9tEspaV52tHgQiPHeqk4klNuRzsJllNtBmjTHsdpNm-SViIWvZ9gaMdToLcmA3bOopqUVI46oNRpcADcb0tEBtuQ"
+""1	LINE	0
+	        size 20M
+|3,1,1,1,1,0,1686816399,"        size 20M"
+"2	LINE	0
+	2731
+<eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmYzQxYjRhMC1kMGNlLTRkYTYtOWIyYy00YmMyMjRlMGJjYzgiLCJpc3MiOiJOTFMgU2VydmljZSBJbnN0YW5jZSIsImF1ZCI6Ik5MUyBMaWNlbnNlZCBDbGllbnQiLCJpYXQiOjE2ODM4MTQ0NDUsIm5iZiI6MTY4MzgxNDQ0NSwiZXhwIjoyMDYyNTA1NjQ1LCJ1cGRhdGVfbW9kZSI6IkFCU09MVVRFIiwic2NvcGVfcmVmX2xpc3QiOlsiZTYyN2RkNzYtNDExZi00ZWViLTgwMjctMWRlODM4NzJmYTI2Il0sImZ1bGZpbGxtZW50X2NsYXNzX3JlZl9saXN0IjpbXSwic2VydmljZV9pbnN0YW5jZV9jb25maWd1cmF0aW9uIjp7Im5sc19zZXJ2aWNlX2luc3RhbmNlX3JlZiI6IjU3NmQxZWVkLTcwMGEtNDAxNi05NWE0LThkN2ZlMDM3NDkxMyIsInN2Y19wb3J0X3NldF9saXN0IjpbeyJpZHgiOjAsImRfbmFtZSI6IkNMUyIsInN2Y19wb3J0X21hcCI6W3sic2VydmljZSI6ImF1dGgiLCJwb3J0Ijo0NDN9LHsic2VydmljZSI6ImxlYXNlIiwicG9ydCI6NDQzfV19XSwibm9kZV91cmxfbGlzdCI6W3siaWR4IjowLCJ1cmwiOiJhcGkuY2xzLmxpY2Vuc2luZy5udmlkaWEuY29tIiwidXJsX3FyIjoiYXBpLmxpY2Vuc2luZy5udmlkaWEuY29tIiwic3ZjX3BvcnRfc2V0X2lkeCI6MH1dfSwic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X2NvbmZpZ3VyYXRpb24iOnsic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X21lIjp7Im1vZCI6ImJlZjBiNjA4ODhhMGZhMThiOTMwMGYxN2UzY2UzM2M0YzU2YmJmYjU4NjRkODg0NzE5NjlhZDdiYmY5MWU3YTM4ODQ1YWIwZWRmZDVlZTBhMzY0ZGU0ZGFhMTQ1Yjg5ZDYzMzg0M2YzMGExMDBmYzcxMWE3MDIzZDMxZTkyM2Q0M2Y4MmFmZjQxMGI5MWUwMjkzMzc2MTZhYzM5NmIxYmViYzJmN2M1NTdjZmQxNTk0MmZkYzMwNmMwNjI3MzY4YzhmYWRlNGUwNDYyMjFhNzQ5NzlhNjQ2M2E3YzM4Mzk3NTc1OWJlNGI4NmQ4NmU0MmVhMGFmY2Y5YWYyODNjNTYyNDgzYTNlOWU2YjEwMDlmNjU0OTIxMjkzYjI2NzNiZmFjMjQ3YWIyNGYwNGViOGEwZGRkOTU5MWM1YzM4MDRmYTA3YTQyOGI1NzA3M2EyODdiZjNiNGRhMDFiMWY5YzhlYjI3MzQyMTY4YjEzODNkYWIzYWVjNzFhZmFkODg5NTMyZTg1MjM2NDY0ZmY2YTU2MjJiMjMxOTAwMTQyOGMyZGQyMGFlZGE4ZGEzZDgzMzkyNDE5NjgzMWIxOTM0YzkwZmM3MWFiNzU0YWE1YjA5ZTQyMjUzYmM2NDc5YzY2Y2FmYzg0NzJhMGNiYjdhZGE2MGNmZGY0YjcyN2VlZDYxIiwiZXhwIjo2NTUzN30sInNlcnZpY2VfaW5zdGFuY2VfcHVibGljX2tleV9wZW0iOiItLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLVxuTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2dkMyQ0lpZytoaTVNQThYNDg0elxueE1WcnY3V0dUWWhIR1dtdGU3K1I1Nk9JUmFzTzM5WHVDalpONU5xaFJiaWRZemhEOHdvUUQ4Y1Jwd0k5TWVralxuMUQrQ3IvUVF1UjRDa3pkaGFzT1dzYjY4TDN4VmZQMFZsQy9jTUd3R0p6YU1qNjNrNEVZaUduU1htbVJqcDhPRFxubDFkWnZrdUcyRzVDNmdyOCthOG9QRllrZzZQcDVyRUFuMlZKSVNrN0puTy9yQ1I2c2s4RTY0b04zWldSeGNPQVxuVDZCNlFvdFhCem9vZS9PMDJnR3grY2pySnpRaGFMRTRQYXM2N0hHdnJZaVZNdWhTTmtaUDlxVmlLeU1aQUJRb1xud3QwZ3J0cU5vOWd6a2tHV2d4c1pOTWtQeHhxM1ZLcGJDZVFpVTd4a2VjWnNyOGhIS2d5N2V0cGd6OTlMY243dFxuWVFJREFRQUJcbi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLSIsImtleV9yZXRlbnRpb25fbW9kZSI6IkxBVEVTVF9PTkxZIn19.LYsWD1T90eXAoGTtFMarxUl3jms4-OSCyQGEVT861HYgqg5vaN6DNRr2PiLJXijB1Qgu3cZUlkHGx9WQV_s8I_XOfi1FLdl2OGzQdlDSEU_QUdQr-RtHIsYWvHThdub9GElAdVchXJLBIjceBjlAAXR-QxxykdUMvloiQSP_ktRHuPrPi4yP_qUUNKneFzcT2FPsryMmL3CrAt05YYRhGZoUeLLO8U1riwWca6cpeHdfxno_D7oYGZsaYeoWpv9tEspaV52tHgQiPHeqk4klNuRzsJllNtBmjTHsdpNm-SViIWvZ9gaMdToLcmA3bOopqUVI46oNRpcADcb0tEBtuQ
+|3,0,2,1,1,0,1683815425,>2730
+|<"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmYzQxYjRhMC1kMGNlLTRkYTYtOWIyYy00YmMyMjRlMGJjYzgiLCJpc3MiOiJOTFMgU2VydmljZSBJbnN0YW5jZSIsImF1ZCI6Ik5MUyBMaWNlbnNlZCBDbGllbnQiLCJpYXQiOjE2ODM4MTQ0NDUsIm5iZiI6MTY4MzgxNDQ0NSwiZXhwIjoyMDYyNTA1NjQ1LCJ1cGRhdGVfbW9kZSI6IkFCU09MVVRFIiwic2NvcGVfcmVmX2xpc3QiOlsiZTYyN2RkNzYtNDExZi00ZWViLTgwMjctMWRlODM4NzJmYTI2Il0sImZ1bGZpbGxtZW50X2NsYXNzX3JlZl9saXN0IjpbXSwic2VydmljZV9pbnN0YW5jZV9jb25maWd1cmF0aW9uIjp7Im5sc19zZXJ2aWNlX2luc3RhbmNlX3JlZiI6IjU3NmQxZWVkL
+|<TcwMGEtNDAxNi05NWE0LThkN2ZlMDM3NDkxMyIsInN2Y19wb3J0X3NldF9saXN0IjpbeyJpZHgiOjAsImRfbmFtZSI6IkNMUyIsInN2Y19wb3J0X21hcCI6W3sic2VydmljZSI6ImF1dGgiLCJwb3J0Ijo0NDN9LHsic2VydmljZSI6ImxlYXNlIiwicG9ydCI6NDQzfV19XSwibm9kZV91cmxfbGlzdCI6W3siaWR4IjowLCJ1cmwiOiJhcGkuY2xzLmxpY2Vuc2luZy5udmlkaWEuY29tIiwidXJsX3FyIjoiYXBpLmxpY2Vuc2luZy5udmlkaWEuY29tIiwic3ZjX3BvcnRfc2V0X2lkeCI6MH1dfSwic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X2NvbmZpZ3VyYXRpb24iOnsic2VydmljZV9pbnN0YW5jZV9wdWJsaWNfa2V5X21lIjp7Im1vZCI6ImJlZjB
+|<iNjA4ODhhMGZhMThiOTMwMGYxN2UzY2UzM2M0YzU2YmJmYjU4NjRkODg0NzE5NjlhZDdiYmY5MWU3YTM4ODQ1YWIwZWRmZDVlZTBhMzY0ZGU0ZGFhMTQ1Yjg5ZDYzMzg0M2YzMGExMDBmYzcxMWE3MDIzZDMxZTkyM2Q0M2Y4MmFmZjQxMGI5MWUwMjkzMzc2MTZhYzM5NmIxYmViYzJmN2M1NTdjZmQxNTk0MmZkYzMwNmMwNjI3MzY4YzhmYWRlNGUwNDYyMjFhNzQ5NzlhNjQ2M2E3YzM4Mzk3NTc1OWJlNGI4NmQ4NmU0MmVhMGFmY2Y5YWYyODNjNTYyNDgzYTNlOWU2YjEwMDlmNjU0OTIxMjkzYjI2NzNiZmFjMjQ3YWIyNGYwNGViOGEwZGRkOTU5MWM1YzM4MDRmYTA3YTQyOGI1NzA3M2EyODdiZjNiNGRhMDFiMWY5YzhlYjI3MzQyMTY4YjEzODNkYWIzY
+|<WVjNzFhZmFkODg5NTMyZTg1MjM2NDY0ZmY2YTU2MjJiMjMxOTAwMTQyOGMyZGQyMGFlZGE4ZGEzZDgzMzkyNDE5NjgzMWIxOTM0YzkwZmM3MWFiNzU0YWE1YjA5ZTQyMjUzYmM2NDc5YzY2Y2FmYzg0NzJhMGNiYjdhZGE2MGNmZGY0YjcyN2VlZDYxIiwiZXhwIjo2NTUzN30sInNlcnZpY2VfaW5zdGFuY2VfcHVibGljX2tleV9wZW0iOiItLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLVxuTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2dkMyQ0lpZytoaTVNQThYNDg0elxueE1WcnY3V0dUWWhIR1dtdGU3K1I1Nk9JUmFzTzM5WHVDalpONU5xaFJiaWRZemhEOHdvUUQ4Y1Jwd0k5TWVralxuMUQrQ3IvUVF1UjRDa3pkaGF
+|<zT1dzYjY4TDN4VmZQMFZsQy9jTUd3R0p6YU1qNjNrNEVZaUduU1htbVJqcDhPRFxubDFkWnZrdUcyRzVDNmdyOCthOG9QRllrZzZQcDVyRUFuMlZKSVNrN0puTy9yQ1I2c2s4RTY0b04zWldSeGNPQVxuVDZCNlFvdFhCem9vZS9PMDJnR3grY2pySnpRaGFMRTRQYXM2N0hHdnJZaVZNdWhTTmtaUDlxVmlLeU1aQUJRb1xud3QwZ3J0cU5vOWd6a2tHV2d4c1pOTWtQeHhxM1ZLcGJDZVFpVTd4a2VjWnNyOGhIS2d5N2V0cGd6OTlMY243dFxuWVFJREFRQUJcbi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLSIsImtleV9yZXRlbnRpb25fbW9kZSI6IkxBVEVTVF9PTkxZIn19.LYsWD1T90eXAoGTtFMarxUl3jms4-OSCyQGEVT861HYgqg5vaN6DNRr2PiLJXijB
+|<1Qgu3cZUlkHGx9WQV_s8I_XOfi1FLdl2OGzQdlDSEU_QUdQr-RtHIsYWvHThdub9GElAdVchXJLBIjceBjlAAXR-QxxykdUMvloiQSP_ktRHuPrPi4yP_qUUNKneFzcT2FPsryMmL3CrAt05YYRhGZoUeLLO8U1riwWca6cpeHdfxno_D7oYGZsaYeoWpv9tEspaV52tHgQiPHeqk4klNuRzsJllNtBmjTHsdpNm-SViIWvZ9gaMdToLcmA3bOopqUVI46oNRpcADcb0tEBtuQ"
+"3	LINE	0
+	ClientConfigurationTokenPath
+|3,0,3,1,1,0,1682678568,"ClientConfigurationTokenPath"
+"-	CHAR	0
+	#
+|3,0,36,0,1,0,1683799084,"#"
+
+# Marques:
+'0  28  0  /etc/systemd/journald.conf
+|4,48,28,0,1686816414,"/etc/systemd/journald.conf"
+'1  4  8  /etc/logrotate.d/rsyslog
+|4,49,4,8,1686816403,"/etc/logrotate.d/rsyslog"
+'2  8  0  /etc/logrotate.d
+|4,50,8,0,1686816394,"/etc/logrotate.d"
+'3  9  90  /etc/fstab
+|4,51,9,90,1686071787,"/etc/fstab"
+'4  7  0  /etc/nvidia/gridd.conf
+|4,52,7,0,1683815481,"/etc/nvidia/gridd.conf"
+'5  37  12  /etc/nvidia/gridd.conf
+|4,53,37,12,1683815461,"/etc/nvidia/gridd.conf"
+'6  37  12  /etc/nvidia/gridd.conf
+|4,54,37,12,1683815461,"/etc/nvidia/gridd.conf"
+'7  1  2727  /etc/nvidia/ClientConfigToken/client_configuration_token_05-11-2023-16-14-06.tok
+|4,55,1,2727,1683815430,"/etc/nvidia/ClientConfigToken/client_configuration_token_05-11-2023-16-14-06.tok"
+'8  52  0  /etc/nvidia/gridd.conf
+|4,56,52,0,1683815250,"/etc/nvidia/gridd.conf"
+'9  52  0  /etc/nvidia/gridd.conf
+|4,57,52,0,1683815250,"/etc/nvidia/gridd.conf"
+
+# Salts (més recents primer):
+-'  28  0  /etc/systemd/journald.conf
+|4,39,28,0,1686816414,"/etc/systemd/journald.conf"
+-'  4  8  /etc/logrotate.d/rsyslog
+|4,39,4,8,1686816403,"/etc/logrotate.d/rsyslog"
+-'  4  8  /etc/logrotate.d/rsyslog
+|4,39,4,8,1686816403,"/etc/logrotate.d/rsyslog"
+-'  1  0  /etc/logrotate.d/rsyslog
+|4,39,1,0,1686816397,"/etc/logrotate.d/rsyslog"
+-'  1  0  /etc/logrotate.d/rsyslog
+|4,39,1,0,1686816397,"/etc/logrotate.d/rsyslog"
+-'  8  0  /etc/logrotate.d
+|4,39,8,0,1686816394,"/etc/logrotate.d"
+-'  8  0  /etc/logrotate.d
+|4,39,8,0,1686816394,"/etc/logrotate.d"
+-'  8  0  /etc/logrotate.d
+|4,39,8,0,1686816394,"/etc/logrotate.d"
+-'  8  0  /etc/logrotate.d
+|4,39,8,0,1686816394,"/etc/logrotate.d"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  9  90  /etc/fstab
+|4,39,9,90,1686071787,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1686071747,"/etc/fstab"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  7  0  /etc/nvidia/gridd.conf
+|4,39,7,0,1683815481,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815470,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  37  12  /etc/nvidia/gridd.conf
+|4,39,37,12,1683815461,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+-'  52  0  /etc/nvidia/gridd.conf
+|4,39,52,0,1683815448,"/etc/nvidia/gridd.conf"
+
+# Historial de marques (més recents primer):
+
+> /etc/systemd/journald.conf
+	*	1686816413	0
+	"	28	0
+	^	28	1
+	.	28	0
+	+	25	16
+	+	26	16
+	+	27	20
+	+	28	16
+	+	25	15
+	+	27	0
+	+	28	0
+
+> /etc/logrotate.d/rsyslog
+	*	1686816401	0
+	"	4	8
+	^	1	1
+	.	4	0
+	+	2	1
+	+	12	0
+	+	4	0
+
+> /etc/fstab
+	*	1686071786	0
+	"	9	90
+	^	9	91
+	.	9	90
+	+	9	90
+
+> /etc/nvidia/gridd.conf
+	*	1683815480	0
+	"	7	0
+	^	7	0
+	.	7	0
+	+	7	25
+	+	37	12
+	+	7	51
+	+	37	12
+	+	7	51
+	+	37	12
+	+	7	0
+
+> /etc/nvidia/ClientConfigToken/client_configuration_token_05-11-2023-16-14-06.tok
+	*	1683815429	0
+	"	1	2727
+	^	1	2728
+	.	1	2727
+	+	1	2727
+
+> /etc/nvidia/ClientConfigToken/client_configuration_token.tok
+	*	1682678479	0
+	"	1	2727
+	^	1	2728
+	.	1	2727
+	+	1	2727
+
+> /etc/update-manager/release-upgrades
+	*	1682672733	0
+	"	1	0
+
+> /etc/apt/apt.conf.d/50unattended-upgrades
+	*	1682672722	0
+	"	44	36
+	^	44	37
+	.	44	36
+	+	44	36
